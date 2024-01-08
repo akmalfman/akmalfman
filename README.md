@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akmal Fauzi Salman</h1>
 <h3 align="center">I've always been fascinated by technology and have always wanted to invent something. Being an Android app developer makes me proud. There are fresh obstacles to overcome and chances for improvement every day.</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akmalfman&label=Profile%20views&color=0e75b6&style=flat" alt="akmalfman" /> </p>
 
